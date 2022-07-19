@@ -6,6 +6,7 @@ usuarios
 id		usuario			clave			nombre y apellido
 
 1	    prueba1@gmail.com		123456			prueba uno ddbb
+
 2	    prueba2@hotmail.com		334455			prueba dos ddbb
 
 
