@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(253, 253, 181);
+}
+
+footer {
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+#division {
+    position: relative;
+    width: 100%;
+}

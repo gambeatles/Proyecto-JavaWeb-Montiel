@@ -1,0 +1,90 @@
+body {
+    background: rgb(253, 253, 181);
+}
+
+#logo {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+
+#imagen {
+    position: absolute;
+    width: 100px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#texto {
+    position: absolute;
+    width: 300px;
+    top: 150px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#mail {
+    position: absolute;
+    width: 400px;
+    top: 250px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#password {
+    position: absolute;
+    width: 400px;
+    top: 305px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#button {
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    top: 200px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#password label {
+    position: relative;
+    width: 80px;
+    top: 30px;
+    left: -100px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#mail label {
+    position: relative;
+    width: 200px;
+    top: 30px;
+    left: -130px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+footer {
+    position: relative;
+    top: 360px;
+}
+
+hr {
+    position: relative;
+    top: 360px;
+}

@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(253, 253, 181);
+}
+
+#uno {
+    background-color: rgb(252, 252, 144);
+}
+
+#dos {
+    background-color: rgb(253, 253, 165);
+}
+
+#tres {
+    background-color: rgb(252, 252, 144);
+}
+
+p {
+    display: flex;
+    font-style: italic;
+    align-items: center;
+    justify-content: center;
+}

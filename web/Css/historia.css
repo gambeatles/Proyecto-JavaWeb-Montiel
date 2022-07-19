@@ -1,0 +1,13 @@
+body {
+    background: rgb(253, 253, 181);
+}
+
+.video {
+    position: relative;
+    top: 100px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    margin: auto;
+}

@@ -1,0 +1,23 @@
+body {
+    background: rgb(253, 253, 181);
+}
+
+.container {
+    position: relative;
+    top: 100px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    margin: auto;
+}
+
+footer {
+    position: relative;
+    top: 150px;
+}
+
+#division {
+    position: relative;
+    top: 150px;
+}

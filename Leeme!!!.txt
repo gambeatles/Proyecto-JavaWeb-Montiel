@@ -1,0 +1,24 @@
+usuarios
+
+id		usuario			clave			nombre y apellido
+
+1	    prueba1@gmail.com		123456			prueba uno ddbb
+
+
+
+provincias
+
+id		nombre				localidad
+
+1 		Cordoba				Mina Clavero
+
+2		La Rioja			Chilecito
+
+3		Buenos Aires			Azul
+
+4		Jujuy				Tilcara
+
+
+
+
+

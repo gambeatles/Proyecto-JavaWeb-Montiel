@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(253, 253, 181);
+}
+
+#shop {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    margin: auto;
+}
+
+#llegar {
+    position: relative;
+    top: 100px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    margin: auto;
+}
+
+footer {
+    position: relative;
+    top: 180px;
+}
+
+#division {
+    position: relative;
+    top: 180px;
+}
